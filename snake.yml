@@ -8,9 +8,9 @@ on:
 
   push:
     branches:
-    - master
+    - main
 
-jobs:
+jobs:s
   generate:
     permissions:
       contents: write
